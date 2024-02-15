@@ -7,8 +7,8 @@ Example output:
 --- Begin report of books/frankenstein.txt ---<br>
 77986 words found in the document<br>
 <br>
-The e character was found 46043 times<br>  
-The t character was found 30365 times<br>  
+The e character was found 46043 times<br>
+The t character was found 30365 times<br>
 The a character was found 26743 times<br>
 The o character was found 25225 times<br>
 The i character was found 24613 times<br>
