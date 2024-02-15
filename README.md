@@ -4,9 +4,9 @@ BookBot is a Python program that analyzes a text file and prints out a report te
 
 Example output:
 
-Begin report of books/frankenstein.txt
+--- Begin report of books/frankenstein.txt ---
 77986 words found in the document
-<br/>
+<br>
 The e character was found 46043 times
 The t character was found 30365 times
 The a character was found 26743 times
